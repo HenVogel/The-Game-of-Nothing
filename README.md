@@ -12,10 +12,13 @@ Why are you here? I already said there is nothing here.
 * To win...
 * Can you win?
 * Probably
+* 
 * Maybe?
 * Do you have patience?
+* 
 * Or...
 * Will the patience take you?
 * 
 * 
-* 
+
+## Good Luck and Have Fun!
