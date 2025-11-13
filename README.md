@@ -18,4 +18,4 @@ Why are you here? I already said there is nothing here.
 * Will the patience take you?
 * 
 * 
-* HELP US
+* 
